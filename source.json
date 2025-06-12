@@ -3,9 +3,9 @@
     "id":"com.tekcast.root",
     "url":"https://tekcastpork.github.io/TekCastVPM/index.json",
     "author":{
-        "email":"tekcastpork@gmail.com",
+        "email":"",
         "name":"TekCastPork",
-        "url":"https://hello.vrchat.com"
+        "url":"https://tekcastpork.carrd.co"
     },
     "description":"TekCastPork's shared VRC packages",
     "infoLink":{
