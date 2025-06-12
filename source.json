@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"TekCastPork's Tomfoolery",
+    "id":"com.tekcast.root",
+    "url":"https://tekcastpork.github.io/TekCastVPM/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"tekcastpork@gmail.com",
+        "name":"TekCastPork",
         "url":"https://hello.vrchat.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"TekCastPork's shared VRC packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/TekCastPork/TekCastVPM",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
