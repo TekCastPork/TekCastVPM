@@ -3,9 +3,8 @@
     "id":"com.tekcast.root",
     "url":"https://tekcastpork.github.io/TekCastVPM/index.json",
     "author":{
-        "email":"",
         "name":"TekCastPork",
-        "url":"https://tekcastpork.carrd.co"
+        "url":"https://tekcast.carrd.co"
     },
     "description":"TekCastPork's shared VRC packages",
     "infoLink":{
